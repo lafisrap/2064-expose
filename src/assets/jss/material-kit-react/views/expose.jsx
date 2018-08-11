@@ -13,7 +13,7 @@ const componentsStyle = {
     position: "relative"
   },
   subtitle: {
-    fontSize: "2.313rem",
+    fontSize: "3.313rem",
     maxWidth: "800px",
     margin: "10px 0 0"
   },

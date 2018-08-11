@@ -22,6 +22,8 @@ import CustomLinearProgress from "components/CustomLinearProgress/CustomLinearPr
 import Paginations from "components/Pagination/Pagination.jsx";
 import Badge from "components/Badge/Badge.jsx";
 
+import content from 'content/expose.js';
+
 import basicsStyle from "assets/jss/material-kit-react/views/componentsSections/basicsStyle.jsx";
 
 class SectionBasics extends React.Component {
@@ -36,17 +38,9 @@ class SectionBasics extends React.Component {
       <div className={classes.sections}>
         <div className={classes.container}>
           <div className={classes.title}>
-            <h2>Überblick</h2>
+            <h2>{content.introduction.title}</h2>
           </div>
-          <div id="buttons">
-            <div className={classes.title}>
-              <h3>
-                Buttons
-                <br />
-                <small>Pick your style</small>
-              </h3>
-            </div>
-          </div>
+           {content.introduction.teaser.map(p => (<p>{p}</p>))} 
         </div>
       </div>
     );

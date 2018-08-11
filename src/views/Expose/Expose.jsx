@@ -20,7 +20,7 @@ import SectionIntroduction from "./Sections/SectionIntroduction.jsx";
 import componentsStyle from "assets/jss/material-kit-react/views/expose.jsx";
 
 // Content
-import content from '../../content/expose.js';
+import content from 'content/expose.js';
 
 class Expose extends React.Component {
   render() {
