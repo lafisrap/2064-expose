@@ -2,6 +2,7 @@
 import React from "react";
 // react components for routing our app without refresh
 import { Link } from "react-router-dom";
+import { HashLink } from "react-router-hash-link";
 
 // @material-ui/core components
 import withStyles from "@material-ui/core/styles/withStyles";
@@ -38,10 +39,16 @@ function HeaderLinks({ ...props }) {
             <Link to="/" className={classes.dropdownLink}>
               Exposé
             </Link>,
-            <Link to="#overview" className={classes.dropdownLink}>
-              Überblick
-            </Link>,
-          ]}
+            <HashLink to="/#y2021" className={classes.dropdownLink}>
+              Leseprobe 2021 - 2023
+            </HashLink>,
+            <HashLink to="/#y2064" className={classes.dropdownLink}>
+              Leseprobe 2064
+            </HashLink>,
+            <HashLink to="/#interviews" className={classes.dropdownLink}>
+              Interviews
+            </HashLink>,
+      ]}
         />
       </ListItem>
       {/* <ListItem className={classes.listItem}>

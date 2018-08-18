@@ -17,6 +17,7 @@ import Parallax from "components/Parallax/Parallax.jsx";
 import HeaderLinks from "components/Header/HeaderLinks.jsx";
 import SectionIntroduction from "./Sections/SectionIntroduction.jsx";
 import SectionSamples from "./Sections/SectionSamples.jsx";
+import SectionInterviews from "./Sections/SectionInterviews.jsx";
 
 import componentsStyle from "assets/jss/material-kit-react/views/expose.jsx";
 
@@ -57,6 +58,9 @@ class Expose extends React.Component {
         </div>
         <div className={classNames(classes.main, classes.mainRaised)}>
           <SectionSamples />
+        </div>
+        <div className={classNames(classes.main, classes.mainRaised)}>
+          <SectionInterviews />
         </div>
         <Footer />
       </div>

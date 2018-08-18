@@ -201,7 +201,7 @@ export default {
         Marwin ignorierte sie so gut es ging.
         Sie schwieg auch und schaute ihn an.`,
 
-        `Nach einer Weile fragte Marwin: „Hat Night-Owl jetzt auch ein Auge verloren?“`,
+        `Nach einer Weile fragte Marwin: „Hat Night-Owl jetzt auch ein Auge verloren? ... Und dann eben doch nicht.“`,
 
         `Die Frau atmete durch.`,
 
@@ -560,13 +560,29 @@ export default {
         Die Leute, die das interessiert, haben mehr Geld?“`,
         
         `Sigur: „Egal.
-        Ich schau mal weiter. Da liegt sicherlich noch mehr auf dem Rechner rum.“`
+        Ich schau mal weiter. Da liegt sicherlich noch mehr auf dem Rechner rum.“`,
+
+        `Sigur schloss die Augen und grinste in sich hinein.
+        Er schrieb in sein Chatfenster: „Lasse! Wow! Wow! Wowowow! Schau, hier!“`,
+
+        `Lasse drehte sich instinktiv zu ihm, um sich dann aber sofort wieder ruhig zurück zu seinem Monitor zu wenden, auf dem gerade ein Videofilm lief.
+        Über den Videofilm hatte er, kaum zu bemerken, sein Chatfenster gelegt.
+        Dort scrollten jetzt seitenweise Daten durch.`,
+
+        `Lasse: „Was ist das???“`,
+
+        `Sigur streckte sich auf seinem Sessel und tippte: „Bitcoins! Da gehen alle Bitcoins aus den Shop hin.
+        Das sind Massen.“`,
+
+        `Lasse: „Echt? Das ist ja super! Wir haben ihn bei den Eiern!“  `
       ]
     }, {
       tabName: 'Lilly',
       tabIcon: Face,
       tabTitle: 'Schwachstellen in Computern',
       tabContent: [
+        `(nach einer Runde in einem Simulationsspiel, das die Zeit von 2021 bis 2033 nachbildet)`,
+
         `Lasse und Sigur saßen am Esstisch der Hausküche und hielten sich beide an einer große Tasse mit dickem Kakao fest.
         Lilly saß im Schneidersitz auf dem Tisch und lächelte immer noch.`,
         
@@ -587,7 +603,7 @@ export default {
         Sie funktioniert super.
         Ihr könnt euch das ja nach dem Spiel in den Logdateien anschauen, da steht alles drin.
         Erst einmal gehe ich damit noch ein wenig auf Raubzug.
-        Über diese Hintertür kann man in viele Computer hereinkommen.
+        Über diese Hintertür kann man in viele Computer hineinkommen.
         Sie ist weit verbreitet und niemand kennt sie.“
         Sie grinste breit.`,
         
@@ -613,7 +629,7 @@ export default {
         
         `Lilly: „Heute … heute ist das so.
         Damals war es erlaubt. Glaube ich zumindest.
-        Auf jeden Fall war es echt Gang und Gäbe.“
+        Auf jeden Fall war es total normal.“
         Sie schmunzelte.
         „Ich habe eine E-Mail gelesen, wo jemand eine noch unbekannte Schwachstelle einem anderen zum Verkauf angeboten hat.
         Für wahnsinnig viel Geld.
@@ -630,7 +646,7 @@ export default {
         `Lilly zog die Augenbrauen hoch.
         „Pfff.
         Klar.
-        Aer hey, wacht auf!
+        Aber hey, wacht auf!
         Die Welt damals war anders.
         Das haben alle gemacht damals.
         Regierungen, Unternehmen, Geheimdienste.
@@ -647,7 +663,7 @@ export default {
         Echt! Massenweise, Berge … Ich sag euch.
         Ich hab …“ Sie stockte.`,
         
-        `Lasse machte eine eschwichtigend Handewegung: „Lilly, bleib auf dem Teppich.“`,
+        `Lasse machte eine beschwichtigende Handbewegung: „Lilly, bleib auf dem Teppich.“`,
         
         `„Du hast …?“, fragte Sigur.
         „Was hast du?“ Er rutschte zu ihr herüber.`,
@@ -853,7 +869,302 @@ export default {
         Was hätte man gegen die Riesenarmeen, Riesenunternehmen und mächtigen Regierungen ausrichten können?
         Aber alles, was man will, ist möglich.
         Und so wurde auch dieser Weg gefunden.
-        Und zwar vor allem von Kindern und Jugendlichen wie euch.“`
+        Und zwar vor allem von Kindern und Jugendlichen wie euch.“`,
+
+        `Edgar sprach eindringlicher: „Marlene Farras war 16 Jahre alt, als sie die NSA-Schwachstellen-Datenbank gehackt hat.
+        Und vor allem dann allen Menschen zur Verfügung gestellt hat.
+        Das war ein Wendepunkt im Befreiungskampf des Internets.
+        Das hat damals auf der ganzen Welt ein Erdbeben ausgelöst.
+        Plötzlich konnten alle klar sehen, und am eigenen Leib spüren, wie viele Hintertüren und Schlupflöcher es überall im Internet gab.
+        Es war regelrecht durchlöchert, jede Menge Leute, nicht nur die Geheimdienste, konnten auf alle Computer zugreifen, auf die sie zugreifen wollten.`,
+
+        `Das Internet war für die junge Generation damals schon zu einem wirklichen Lebensraum geworden.
+        Und als sie nachvollziehen konnten, was alles im Geheimen passierte, was getan wurde, um sie zu durchleuchten und zu kategorisieren, sie dazu zu bringen, Dinge zu kaufen, Dinge wichtig zu finden, oder unwichtig zu finden, ihnen Dinge vorzuenthalten, änderte sich für sie alles.
+        Über diese Hintertüren und Schlupflöcher wurden nicht etwa vor allem Verbrecher oder Terroristen gejagt, nein, sie wurden genutzt, um die neue Generation zu überwachen und zu steuern.
+        Durch diese Manipulationen glaubten viele Menschen, sie bräuchten dies und das, um ein glückliches Leben zu haben oder kein unglückliches Leben zu haben, sie arbeiteten dafür, wendeten dafür viel Zeit und Kraft auf, obwohl sie es nicht wirklich brauchten.
+        So wurde die neue Generation davon abgelenkt, was sie wirklich machen wollte, in ihren Herzen, in ihrem Idealismus.
+        Viele von ihnen wurden an diesem Wendepunkt Cypherpunks.`
+      ]
+    }]
+  },
+  interviews: {
+    title: "Interviews",
+    interviews: [{
+      name: 'Marlene (2023)',
+      icon: Face,
+      qnas: [
+        `I: Marlene, kannst du ein paar Worte über dich selbst sagen?`,
+
+        `M: Gerne. So über mein Leben?`,
+        
+        `I: Ja.`, 
+        
+        `M: Also geboren bin ich in Berlin, Mariendorf.
+        Im Mai 2005.
+        Und bis zu meiner Flucht war ich eigentlich mein ganzes Leben dort.
+        Zum ersten Mal programmiert habe ich auf einem Hackercamp mit 10 Jahren.
+        Das war cool.
+        Das hat mich total elektrisiert.
+        Ich weiß noch wie mein Bruder neben mir stand und ungläubig gefragt hat: 'Das hast DU gemacht?'.
+        Da war ich so stolz.
+        Vom ihm habe ich dann später alles gelernt.
+        Er hat so einen kühlen, scharfen Blick, er kann im Computer versinken und wenn er das tut, dann kann er alles.
+        Als er zum ersten Mal im Bundesnachrichtendienst war, also auf deren Computern, da war ich dabei.
+        Das war die krasseste Erfahrung bis dahin in meinem Leben.
+        Ich habe vorher noch nie seine Finger zittern sehen, so ganz leicht.
+        Ich kann heute noch wie in Zeitlupe alles wiederholen, was er damals gemacht hat.
+        Und ab dem Zeitpunkt wollte ich nichts lieber als das auch können.
+        Und er hat auch immer solche Sachen gesagt, die mir Jahre später, heute noch immer wieder hochkommen.
+        „Die Gesetze der Zukunft sind die Programme, die wir schreiben“.
+        Hey! Was hilft es, wenn ein Parlament beschließt, Hacker zu überwachen, wenn die Programme haben, die man nicht überwachen kann?
+        Solche Sachen hat er ständig für mich gehabt.
+        Das war das Schönste in meinem Leben.
+        Ich war gierig danach.`,
+        
+        `I: Und die Schule?`,
+        
+        `M: (atmet aus) Ich fand es cool, dass ich andere Leute um mich herum hatte.
+        Aber hauptsächlich war es langweilig.
+        Nicht so sehr der Stoff, eher die Willkür, und das alles so undurchdacht war.
+        Warum jetzt das machen?
+        Warum soviel Mathe und soviel Deutsch?
+        Warum nicht schauen, was gerade dran ist?
+        Ich war die meiste Zeit in so einem Automatikmodus, bin so mitgeschwommen.
+        Bis ich 15 war. Dann ging das nicht mehhr ...`,
+        
+        `I: Dann warst du ja auch nicht mehr lange in der Schule.`,
+        
+        `M: Ich hätte das sowieso nicht mehr lange gemacht. 
+        Das war der Horror.
+        Es ging immer so weiter.
+        Rein in den Kopf, schauen ob es drin ist, dann wieder raus damit.
+        So ein Riesenschwachsinn. 
+        Das geht nicht, wenn du abends mit deinem Bruder die Überwachungskamera-Datenbank des BND durchforstest und im Tornetz eine Karte davon veröffentlichst.`,
+        
+        `I: Dein erster Hack?`,
+        
+        `M: Ich dachte, das hier ist als Teaser für die Geschichte gedacht.
+        Da kann ich ja jetzt hier wohl nichts dazu sagen, oder?`,
+        
+        `I: Nein, natürlich nicht. Nur wie das Gefühl war.`,
+        
+        `M: Ich musste das tun.
+        Ich hatte keine Wahl.
+        Ich hatte so eine Riesenwut.
+        Fuck.
+        Alles war so krass schief.
+        Ungerecht.
+        Aber durch den Hack habe ich am Ende gefunden, was ich wirklich gesucht habe.
+        Nicht nur meinen Bruder.`,
+        
+        `I: Danke dir. Für das Interview und dafür, dass du das gemacht hast.`
+      ]
+    }, {
+      name: 'Marwin (2023)',
+      icon: Face,
+      qnas: [
+        `I: Marwin, danke dass du Zeit gefunden hast.`,
+
+        `M: Gerne. Für so eine Sache.`,
+        
+        `I: Marlene. Was ist sie für dich?`,
+        
+        `M: (Atmet aus). Hmm.
+        Ich bin unendlich stolz auf sie. 
+        Oder nein.
+        Das passt nicht.
+        Das ist zu schwach.
+        Sie hat so einen Willen, der alles umhaut.
+        Vielleicht so wie wenn du dich zwischen eine Bärin und ihr Junges stellst.
+        Und die Bärin hat ja auch nicht nur den Willen, sie kann auch ...
+        Ich habe an einem Punkt im CIA-Gefängins gedacht:
+        “Ah, ihr legt euch gerade mit Marlene an.
+        Ha! Viel Glück! Aber ihr habt keine Chance.“
+        Und ich kannte die Jungs dort, ich war schon zwei Jahre drin.
+        Und dann kam es wirklich so, dann mussten sie ihren Schwanz einziehen.
+        Nein, stolz ist zu schwach.`,
+        
+        `I: Und die Gefängniszeit?`,
+        
+        `M: Ich habe viel gelernt.
+        Ich habe was übrig von da, aber ich komme damit klar.
+        Gut war, dass ich schon einiges verstanden hatte, bevor ich dorthin kam.
+        Sie mögen ihre Arbeit selbst nicht.
+        Sie sind stolz.
+        Sie müssen sich ihre eigene Welt schaffen.
+        Damit kann man arbeiten.
+        Was sie mit Night Owl gemacht haben, tut mir immer noch weh.
+        Er wird nicht mehr so werden, wie er war.`,
+        
+        `I: Und dein Manifest?`,
+        
+        `M: Das kam einfach so.
+        Ich war frei an dem Tag.
+        Jemand hat das Gewicht weggenommen, unter dem ich eingeklemmt war.
+        Dann konnte ich auf einmal spielen.
+        Marlene zeigt es gerade überall rum, jeder bekommt es, ob er will oder nicht.
+        (er lacht)`,
+        
+        `I: Ja, ich habe auch eins bekommen.
+        Ist das eine Grundlage für ...`,
+        
+        `M: ... die Befreiung des Internets?
+        Vielleicht.
+        Der Text selbst nicht, aber wenn du verstehst, dass es Dinge gibt, die stärker sind als alle Armeen und Geheimdienste und Unternehmen dieser Welt.
+        Dann vielleicht.`,
+        
+        `I: Danke dir.`
+      ]
+    }, {
+      name: 'Linda (2023)',
+      icon: Face,
+      qnas: [
+        `I: Linda, danke dass Sie sich Zeit genommen haben.
+        Das ist eine großartige Story, nicht, Marlene und die amerikanische Präsidentin?`,
+        
+        `L: Marlene fasziniert viele Menschen.
+        Sie ist sehr mutig.
+        Sie ist sehr jung.
+        Sie ist eine Frau.
+        Das mögen die Menschen.
+        Ich hoffe trotzdem, dass das nicht so schnell Nachahmer findet.
+        Es ist nicht ganz leicht, in politischen Dingen spontan zu sein.
+        Und nicht ohne Risiko.
+        Ich bin sicher, dass wir das nächste mal nicht so spontan reagieren werden.
+        Da kam einiges zusammen, dass das ein Erfolg werden konnte.`,
+        
+        `I: Die Beliebtheitswerte der Präsidentin sind hier auf jeden Fall gestiegen.`,
+        
+        `L: Beliebtheit ist nicht das oberste Ziel des Amerikanischen Staatsoberhaupts.
+        Wenige Präsidenten haben es bisher geschafft, ihre Beliebtheit zu steigern.
+        Sie haben trotzdem Großes geleistet.
+        Wenn wir nicht gerade dabei gewesen wären, unsere Geheimdienstlandschaft umzubauen, grobe Missstände zu identifizieren und zu addressieren, wenn Marwin nicht ausgerechnet einer der Fälle gewesen wäre, die wir eh auf der Liste hatten, dann weiß ich nicht, ob wir so schnell etwas hätten tun können.
+        Und außerdem, Marwin war schon auch ein sturer Kopf, er hat das Ganze nochmal in Gefahr gebracht.`,
+        
+        `I: Hat er?`,
+        
+        `L: Ja, hat er.
+        Ich musste weit gehen, um ihn zu überzeugen, dass wir ihn entlassen wollen.
+        Er hat mit uns gespielt.`,
+        
+        `I: Sie wollten ihn entlassen und er wollte nicht?`,
+        
+        `L: Es ist nicht ganz so einfach, aber an einem Punkt hat er sich dem verweigert.`,
+        
+        `I: Aber dann nicht mehr.
+        Und er ist jetzt tatsächlich nicht mehr auf ihrer Liste?
+        Immerhin ist er aktiver Hacker, Cypherpunk und hat eine sehr liberale Einstellung.`,
+        
+        `L: Wenn er sich nicht gegen uns wendet, dann kann er außerhalb Amerikas ein freies Leben führen.
+        Von der NSA wird er auf jeden Fall nicht mehr überwacht.`,
+        
+        `I: Die gibt es ja nun eigentlich auch nicht mehr.
+        Vielen Dank für das Interview.`
+      ]
+    }, {
+      name: 'Lilly (2064)',
+      icon: Face,
+      qnas: [
+        `I: Hej Lilly! 
+        Wie ist das Leben?`,
+        
+        `L: Guuut!
+        Wir bauen gerade das Cypherpunk-Cafe um.`,
+        
+        `I: Auf dem Ballon?
+        L: Ja, es wird jetzt komplett schweben ...
+        Sieht cool aus.
+        ja, alles muss sich ändern für die Cypherpunk-Akademie 2.0.`,
+        
+        `I: Wie machst du das?
+        Du programmierst voll mit an der Akademie, du hilfst in der Hacker-Abwehr, du bist 12 Jahre alt.`,
+        
+        `L: Wie wehren nicht Hacker ab, sondern Kriminelle, Dark Hats und Weirdos.
+        Ja, aber stimmt, ich darf da voll mitmachen.
+        Das ist cool.
+        Ich weiß auch nicht, wie ich das mache.
+        Ich mache einfach.
+        Ich finde das super einfach.
+        Ich sehe was ich machen will, und dann schreibe ich das.
+        Mozart hat mit 8 Jahren seine erste Sinfonie komponiert, warum soll ich nicht mit 12 ein neues Internet-Abwehr-System bauen?
+        Das hat Marlene letztes Mal gesagt, als jemand gefragt hat, ob es Sinn macht, dass ich bei dem Akadmemie-Projekt dabei bin.`,
+        
+        `I: Es ist ein bisschen etwas anderes eine Sinfonie zu schreiben, damit Menschen Musik genießen können, und ein Abwehrsystem zu bauen, um Black Hats draußen zu halten, die die Akademie dem Boden gleich machen wollen?`,
+        
+        `L: Ich glaube, die Sinfonien von Mozart haben viele Menschenleben gerettet.
+        Mozart war nur in einem anderen Bereich.
+        Er hat das sehr ernst genommen.`,
+        
+        `I: Und dein Bruder Lasse, und Sigur?
+        
+        Die sind voll drin im Spiel.
+        Nah an den echten Missionen.
+        Und was sie mit den Kampfrobotern machen ist schon super.
+        Hast du den Fünfstern-Angriff gesehen.
+        Cool.
+        Sigur hat sich jetzt vielleicht ein wenig festgebissen.
+        Wenn er da nicht loskommt, dann wird er vielleicht ein Weirdo.
+        Er hat da einen Tick.
+        Aber technisch sauber.
+        Als so ein alter Geheimdienst würde ich vollen Respekt vor den beiden haben.
+        Die beiden werden tolle Aufgaben von den Akademie bekommen.`,
+        
+        `I: Lieben Dank und alles Gute!`        
+      ]
+    }, {
+      name: 'Lasse (2064)',
+      icon: Face,
+      qnas: [
+        `I: Und Lasse, stolz auf deine Schwester?`,
+
+        `L: Kannst du nicht eine andere erste Frage stellen?
+        Lilly is super, alle finden sie super.
+        Mich nervt sie auch mal.
+        Sie bekommt alles was sie will.
+        Sie kann alles, was sie will.
+        Sie muss nur hinschauen.
+        Einfach so.
+        Jetzt gerade habe ich es in die Cypherpunk-Akademie geschafft, als einer der ersten.
+        Und sie? Sie programmiert da schon mit.
+        Das ist ok.
+        Aber ich bin zwei Jahre älter.`,
+        
+        `I: Sie hat dir im Spiel gezeigt, wie man fliegende Kampfroboter bekommt.`,
+        
+        `L: Ja, das hat sie.
+        Aber ich habe mit Sigur die Kampfroboter-Flotte des LBI gefunden und gehackt.
+        Ohne Lilly.
+        Und vorher den Fünfstern zerlegt.
+        Zu zweit.
+        Das hat vorher auch noch keiner im Spiel geschafft.`,
+        
+        `I: Und Fortunato in Venezuela in seinem Strandapparment gehackt.`,
+        
+        `L: Genau.
+        Das waren wir.
+        Und das Arschloch ist da rausgekommen.
+        Den gibt es immer noch im Spiel, nicht?
+        Der ist bei dem Raketenangriff nicht draufgegangen, oder?`,
+        
+        `I: Das wäre ein Spoiler, wenn ich das jetzt sage, oder?`,
+        
+        `L: Klar. Ich darf es nicht wissen.
+        Aber Lilly weiß das.
+        Das ist genau die Sache.
+        Sie ist immer vorne.`,
+        
+        `I: Und Sigur?`,
+        
+        `L: Sigur ist cool.
+        Ja, er ist ein bisschen durchgedreht nach Fortunato.
+        Ein bisschen vom Gleis weg.
+        Aber das war ja verständlich, bei dem, was er dort erlebt hat.
+        Und das hat er dann ja auch in der Akademie zu spüren bekommen.
+        Ich glaube er fängt sich wieder.
+        Wir haben ja jetzt einen Ruf zu verteidigen ...`,
+        
+        `I: Das habt ihr wirklich.
+        Vielen Dank, Lasse.`                
       ]
     }]
   }

@@ -21,7 +21,7 @@ import CustomInput from "components/CustomInput/CustomInput.jsx";
 import CustomLinearProgress from "components/CustomLinearProgress/CustomLinearProgress.jsx";
 import Paginations from "components/Pagination/Pagination.jsx";
 import Badge from "components/Badge/Badge.jsx";
-import CustomTabs from "components/CustomTabs/CustomTabs.jsx";
+import NavPills from "components/NavPills/NavPills.jsx";
 
 import content from 'content/expose.js';
 
@@ -37,54 +37,29 @@ class SectionBasics extends React.Component {
     const { classes } = this.props;
     return (
       <div className={classes.sections}>
+        <a name="interviews"></a>
         <div className={classes.container}>
-          <div className={classes.title}>
-            <h2>{content.samples.title}</h2>
+          <div id='interviews' className={classes.title}>
+            <h2>{content.interviews.title}</h2>
           </div>
-          <a name="y2021"></a>
-          <h3 id="y2021">
-            2021 - 2023 <a href="#y2064">(&rarr; 2064)</a>
-          </h3>
           <GridContainer>
-            <GridItem xs={12} sm={12} md={9} >
-              <CustomTabs
-                headerColor="primary"
-                tabs={ content.samples.stories2023.map(story => {
-                    const { tabName, tabIcon, tabContent, tabTitle } = story;
-                    return {
-                      tabName,
-                      tabIcon,
-                      tabContent: [<h2>{tabTitle}</h2>, ...tabContent.map(p => (
-                        <p className={classes.textCenter}>
-                          {p}
-                        </p>
-                      ))]
-                    }
-                  })
-                }
-              />
-            </GridItem>
-          </GridContainer>
-          <a name="y2064"></a>
-          <h3 id="y2064">2064  <a href="#y2021">(&rarr; 2021-2023)</a></h3>
-          <GridContainer>
-            <GridItem xs={12} sm={12} md={9} >
-              <CustomTabs
-                headerColor="primary"
-                tabs={ content.samples.stories2064.map(storie => {
-                    const { tabName, tabIcon, tabContent } = storie;
-                    return {
-                      tabName,
-                      tabIcon,
-                      tabContent: tabContent.map(p => (
-                        <p className={classes.textCenter}>
-                          {p}
-                        </p>
-                      ))
-                    }
-                  })
-                }
-              />
+            <GridItem xs={12} sm={12} md={9}>
+                <NavPills
+                    color="primary"
+                    tabs={ content.interviews.interviews.map(interview => {
+                        return {
+                            tabButton: interview.name,
+                            tabIcon: interview.icon,
+                            tabContent: (
+                                <span>
+                                    { interview.qnas.map(qa => (
+                                        <p>{qa}</p>
+                                    ))}
+                                </span>
+                            )
+                        } 
+                    })}
+                />
             </GridItem>
           </GridContainer>
         </div>
