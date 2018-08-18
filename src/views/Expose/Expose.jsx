@@ -18,6 +18,7 @@ import HeaderLinks from "components/Header/HeaderLinks.jsx";
 import SectionIntroduction from "./Sections/SectionIntroduction.jsx";
 import SectionSamples from "./Sections/SectionSamples.jsx";
 import SectionInterviews from "./Sections/SectionInterviews.jsx";
+import SectionQuotes from "./Sections/SectionQuotes.jsx";
 
 import componentsStyle from "assets/jss/material-kit-react/views/expose.jsx";
 
@@ -61,6 +62,9 @@ class Expose extends React.Component {
         </div>
         <div className={classNames(classes.main, classes.mainRaised)}>
           <SectionInterviews />
+        </div>
+        <div className={classNames(classes.main, classes.mainRaised)}>
+          <SectionQuotes />
         </div>
         <Footer />
       </div>

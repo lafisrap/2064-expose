@@ -424,159 +424,6 @@ export default {
       ]
     }],
     stories2064: [{
-      tabName: 'Lasse und Sigur',
-      tabIcon: Face,
-      tabTitle: 'Im Strand-Appartment ',
-      tabContent: [
-        `Sigur und Lasse saßen im Wohnzimmer des Strand-Apartments in zwei riesigen Sesseln.
-        Von dort hatten sie einen 270-Grad-Rundumblick über das Meer.
-        Auf der anderen Seite im Raum stand ein überdimensionierter Fernseher, links dahinter ein offener Kamin.`,
-        
-        `Sigur: „Was meinst du, wann wird er wiederkommen?“`,
-        
-        `Lasse: „Keine Ahnung.
-        Vielleicht kommt er gar nicht wieder.“`,
-        
-        `Sigur: „Auf jeden Fall sieht er uns gerade auf irgendeinem Monitor oder hört uns durch irgendein Mikrofon.
-        Und meinen RFID-Chip habe ich auch noch nicht gefunden.“
-        Er strich sich wieder durch die Haare.
-        „Das ist kein guter Platz hier.
-        Lass uns gehen.“`,
-        
-        `Lasse: „Hier gibt es irgendetwas zu tun.
-        Sonst hätte Marlene uns nicht hierher geschickt.“
-        Er schaute sich um.`,
-        
-        `Sigur: „Klar.
-        Hier steht sicher irgendwo sein Cloud-Rechner rum.
-        Und da sind ziemlich sicher super interessante Sachen drauf.
-        Und da hacken wir uns jetzt einfach rein und schauen zum Beispiel, was er Interessantes über das LBI hat.“
-        Er zog die Augenbrauen hoch und lächelte gestellt.
-        „Und da er weiß, dass wir Hacker sind, lässt er uns hier in Ruhe allein unser Ding machen.“`,
-        
-        `Lasse: „Mh mh.
-        Er sieht und hört uns zu.
-        Auf jeden Fall.
-        Aber dann können wir ihn ja um Hilfe fragen, wenn wir nicht weiterkommen.“
-        Er lächelte gestellt zurück.`,
-        
-        `Plötzlich schaute Sigur Lasse erstaunt an.
-        Dann schien er intensiv zu denken, er schloss die Augen.
-        Dann griff er in seinen Rucksack, holte seinen Laptop heraus und legte ein Tuch über seine Hände, während er das Passwort eingab.
-        Er begann darauf herumzutippen.
-        Lasse beobachtete ihn eine Weile, Sigur war vertieft in sein Gerät, unansprechbar, „plugged in“, wie sie das nannten.
-        Nach einer Weile holte er auch seinen Rechner heraus, schaltete ihn an, gab sein Passwort ein und ging ins Internet.`,
-        
-        `„Pling“, sagte das Chat-Programm und zeigte eine Nachricht von Sigur.`,
-        
-        `Sigur: „Endlich.
-        Das bist du ja! Pass auf, dass dir nichts von hinten auf den Monitor schaut.“ Lasse klappte den Bildschirm leicht zu sich.`,
-        
-        `Sigur: „Neben deinem linken Fuß unter dem Tisch ist eine Steckdose.
-        Ich habe unter meinem linken Bein einen kabellosen Stecker.
-        Nimm ihn unauffällig und stecke ihn dort ein.“
-        Lasse tat so als würde er sich die Schuhe binden und drückte den Stecker dabei in die Dose.`,
-        
-        `Sigur: „Gut.
-        Ich habe Kontakt.
-        Das Gerät meldet mir ultrakleine Schwankungen im Stromnetz, zum Beispiel von Computer-Aktivität, von allen Computern, die hier so im Netz hängen.
-        Ich werde jetzt einen Portscan über alle Computer in Caracas laufen lassen und schauen, wann sich hier etwas tut.
-        Vielleicht erwischen wir ja etwas.“`,
-        
-        `Lasse: „Komm, wenn er überhaupt Rechner hier hat, dann ist er sicher so paranoid, dass sie an einem eigenen Netz hängen.
-        Wahrscheinlich geht er auch direkt über Satelliten raus ins Internet.“
-        Sigur saß eine Weile vertieft vor seinem Rechner und tippte ab und zu.
-        Lasse bearbeite derweil seine Pond-Nachrichten.`,
-        
-        `„Got it!“, schrieb Sigur plötzlich, „drei Rechner sind direkt hier im Stromnetz.
-        Wahrscheinlich im Keller.
-        Tief im Keller.
-        Einer scheint ein Tor-Hidden-Service zu sein, wahrscheinlich auf einem Cubes-System.
-        Da gucke ich mal rein.“`,
-        
-        `Lasse schickte ihm eine Datei: „Hier sind die Sachen von Lilly, mit denen sie in Cubes hineingeht.
-        Da ist zwar nichts für die neueste Version dabei, aber vielleicht kannst du es gebrauchen.“`,
-        
-        `Sigur: „Keine Zero-Days für die neueste Version?
-        Gutes Zeichen.
-        Ich liebe Cubes.
-        He he.
-        Er hat hier nicht die neueste Version.
-        Super.
-        Ich probiere die Sachen gerade mal durch.
-        Lilly ist ein Schatz.“`,
-        
-        `Wenige Minuten später: Sigur verzog auf seinem Sessel keine Miene und schrieb: „YESS!!! Bin drin! Super einfach.
-        Er hat zwar einen ganz guten Schutz gehabt, aber eben nicht die neueste Version. Ich sage immer: Updaten, updaten, updaten.
-        Einen kleinen Moment. Hier: Die Onion-Adresse ist idtAIrLBI0KJ6gjyro8uTkHa.onion.
-        Was hat er denn da?
-        Aha, einen Shop.
-        Wow!
-        Er ist wirklich ein Informationshändler.
-        Nicht gelogen.
-        Schön übersichtlich.
-        Und hier: Das Such-Programm, von dem er gesprochen hat.
-        Da kann man Telefonnummern eingeben, E-Mail-Adressen.
-        Wie bei XKeyScore von der NSA.
-        Mal gucken, was das so kann.
-        Gib mal … nein, nicht deine! Um Gottes Willen.
-        Die von Edward Snowden ein.“`,
-        
-        `****
-        ....
-        Edward Snowden`,
-        
-        `Tätigkeitsschwerpunkt: Hacker, Internetaktivist, Internet-Sicherheit`,
-        
-        `Letzter bestätigter Aufenthaltsort: 2 Tage alt `,
-        
-        `Bewegungsprofil: 2% Abdeckung`,
-        
-        `E-Mails gesamt: 12234 (alle Adressdaten, Betreffzeile)`,
-        
-        `E-Mails ohne PGP: 335 (voller Inhalt, alle Adressdaten, Betreffzeile)`,
-        
-        `Jabber-Kontakte: 71`,
-        
-        `Finanzdaten: 12334`,
-        
-        `Portrait-Fotos: 72`,
-        
-        `Kommunikationskontakte: 781
-        ....
-        ****`,
-        
-        `Sigur: „Shit, der hat im Bewegungsprofil nur 2% Abdeckung.
-        Wie macht der das?
-        Und schau mal, was das kostet: Volle Daten $ 65.000, Metadaten $38.000.
-        Das ist ja geschenkt.
-        Mal sehen wie viel Abdeckung Marc Zuckerberg hat und was der kostet … Ahhh. Der hat 99,3%.
-        Wow.
-        Aber klar.
-        Und seine Daten kosten: $ 81.000.
-        Warum ist der teurer als Edward?“`,
-        
-        `Lasse: „Hmmm.
-        Die Leute, die das interessiert, haben mehr Geld?“`,
-        
-        `Sigur: „Egal.
-        Ich schau mal weiter. Da liegt sicherlich noch mehr auf dem Rechner rum.“`,
-
-        `Sigur schloss die Augen und grinste in sich hinein.
-        Er schrieb in sein Chatfenster: „Lasse! Wow! Wow! Wowowow! Schau, hier!“`,
-
-        `Lasse drehte sich instinktiv zu ihm, um sich dann aber sofort wieder ruhig zurück zu seinem Monitor zu wenden, auf dem gerade ein Videofilm lief.
-        Über den Videofilm hatte er, kaum zu bemerken, sein Chatfenster gelegt.
-        Dort scrollten jetzt seitenweise Daten durch.`,
-
-        `Lasse: „Was ist das???“`,
-
-        `Sigur streckte sich auf seinem Sessel und tippte: „Bitcoins! Da gehen alle Bitcoins aus den Shop hin.
-        Das sind Massen.“`,
-
-        `Lasse: „Echt? Das ist ja super! Wir haben ihn bei den Eiern!“  `
-      ]
-    }, {
       tabName: 'Lilly',
       tabIcon: Face,
       tabTitle: 'Schwachstellen in Computern',
@@ -801,6 +648,159 @@ export default {
         Für euch ist jetzt erst einmal Flucht dran.“`
       ]
     }, {
+      tabName: 'Lasse und Sigur',
+      tabIcon: Face,
+      tabTitle: 'Im Strand-Appartment ',
+      tabContent: [
+        `Sigur und Lasse saßen im Wohnzimmer des Strand-Apartments in zwei riesigen Sesseln.
+        Von dort hatten sie einen 270-Grad-Rundumblick über das Meer.
+        Auf der anderen Seite im Raum stand ein überdimensionierter Fernseher, links dahinter ein offener Kamin.`,
+        
+        `Sigur: „Was meinst du, wann wird er wiederkommen?“`,
+        
+        `Lasse: „Keine Ahnung.
+        Vielleicht kommt er gar nicht wieder.“`,
+        
+        `Sigur: „Auf jeden Fall sieht er uns gerade auf irgendeinem Monitor oder hört uns durch irgendein Mikrofon.
+        Und meinen RFID-Chip habe ich auch noch nicht gefunden.“
+        Er strich sich wieder durch die Haare.
+        „Das ist kein guter Platz hier.
+        Lass uns gehen.“`,
+        
+        `Lasse: „Hier gibt es irgendetwas zu tun.
+        Sonst hätte Marlene uns nicht hierher geschickt.“
+        Er schaute sich um.`,
+        
+        `Sigur: „Klar.
+        Hier steht sicher irgendwo sein Cloud-Rechner rum.
+        Und da sind ziemlich sicher super interessante Sachen drauf.
+        Und da hacken wir uns jetzt einfach rein und schauen zum Beispiel, was er Interessantes über das LBI hat.“
+        Er zog die Augenbrauen hoch und lächelte gestellt.
+        „Und da er weiß, dass wir Hacker sind, lässt er uns hier in Ruhe allein unser Ding machen.“`,
+        
+        `Lasse: „Mh mh.
+        Er sieht und hört uns zu.
+        Auf jeden Fall.
+        Aber dann können wir ihn ja um Hilfe fragen, wenn wir nicht weiterkommen.“
+        Er lächelte gestellt zurück.`,
+        
+        `Plötzlich schaute Sigur Lasse erstaunt an.
+        Dann schien er intensiv zu denken, er schloss die Augen.
+        Dann griff er in seinen Rucksack, holte seinen Laptop heraus und legte ein Tuch über seine Hände, während er das Passwort eingab.
+        Er begann darauf herumzutippen.
+        Lasse beobachtete ihn eine Weile, Sigur war vertieft in sein Gerät, unansprechbar, „plugged in“, wie sie das nannten.
+        Nach einer Weile holte er auch seinen Rechner heraus, schaltete ihn an, gab sein Passwort ein und ging ins Internet.`,
+        
+        `„Pling“, sagte das Chat-Programm und zeigte eine Nachricht von Sigur.`,
+        
+        `Sigur: „Endlich.
+        Das bist du ja! Pass auf, dass dir nichts von hinten auf den Monitor schaut.“ Lasse klappte den Bildschirm leicht zu sich.`,
+        
+        `Sigur: „Neben deinem linken Fuß unter dem Tisch ist eine Steckdose.
+        Ich habe unter meinem linken Bein einen kabellosen Stecker.
+        Nimm ihn unauffällig und stecke ihn dort ein.“
+        Lasse tat so als würde er sich die Schuhe binden und drückte den Stecker dabei in die Dose.`,
+        
+        `Sigur: „Gut.
+        Ich habe Kontakt.
+        Das Gerät meldet mir ultrakleine Schwankungen im Stromnetz, zum Beispiel von Computer-Aktivität, von allen Computern, die hier so im Netz hängen.
+        Ich werde jetzt einen Portscan über alle Computer in Caracas laufen lassen und schauen, wann sich hier etwas tut.
+        Vielleicht erwischen wir ja etwas.“`,
+        
+        `Lasse: „Komm, wenn er überhaupt Rechner hier hat, dann ist er sicher so paranoid, dass sie an einem eigenen Netz hängen.
+        Wahrscheinlich geht er auch direkt über Satelliten raus ins Internet.“
+        Sigur saß eine Weile vertieft vor seinem Rechner und tippte ab und zu.
+        Lasse bearbeite derweil seine Pond-Nachrichten.`,
+        
+        `„Got it!“, schrieb Sigur plötzlich, „drei Rechner sind direkt hier im Stromnetz.
+        Wahrscheinlich im Keller.
+        Tief im Keller.
+        Einer scheint ein Tor-Hidden-Service zu sein, wahrscheinlich auf einem Cubes-System.
+        Da gucke ich mal rein.“`,
+        
+        `Lasse schickte ihm eine Datei: „Hier sind die Sachen von Lilly, mit denen sie in Cubes hineingeht.
+        Da ist zwar nichts für die neueste Version dabei, aber vielleicht kannst du es gebrauchen.“`,
+        
+        `Sigur: „Keine Zero-Days für die neueste Version?
+        Gutes Zeichen.
+        Ich liebe Cubes.
+        He he.
+        Er hat hier nicht die neueste Version.
+        Super.
+        Ich probiere die Sachen gerade mal durch.
+        Lilly ist ein Schatz.“`,
+        
+        `Wenige Minuten später: Sigur verzog auf seinem Sessel keine Miene und schrieb: „YESS!!! Bin drin! Super einfach.
+        Er hat zwar einen ganz guten Schutz gehabt, aber eben nicht die neueste Version. Ich sage immer: Updaten, updaten, updaten.
+        Einen kleinen Moment. Hier: Die Onion-Adresse ist idtAIrLBI0KJ6gjyro8uTkHa.onion.
+        Was hat er denn da?
+        Aha, einen Shop.
+        Wow!
+        Er ist wirklich ein Informationshändler.
+        Nicht gelogen.
+        Schön übersichtlich.
+        Und hier: Das Such-Programm, von dem er gesprochen hat.
+        Da kann man Telefonnummern eingeben, E-Mail-Adressen.
+        Wie bei XKeyScore von der NSA.
+        Mal gucken, was das so kann.
+        Gib mal … nein, nicht deine! Um Gottes Willen.
+        Die von Edward Snowden ein.“`,
+        
+        `****
+        ....
+        Edward Snowden`,
+        
+        `Tätigkeitsschwerpunkt: Hacker, Internetaktivist, Internet-Sicherheit`,
+        
+        `Letzter bestätigter Aufenthaltsort: 2 Tage alt `,
+        
+        `Bewegungsprofil: 2% Abdeckung`,
+        
+        `E-Mails gesamt: 12234 (alle Adressdaten, Betreffzeile)`,
+        
+        `E-Mails ohne PGP: 335 (voller Inhalt, alle Adressdaten, Betreffzeile)`,
+        
+        `Jabber-Kontakte: 71`,
+        
+        `Finanzdaten: 12334`,
+        
+        `Portrait-Fotos: 72`,
+        
+        `Kommunikationskontakte: 781
+        ....
+        ****`,
+        
+        `Sigur: „Shit, der hat im Bewegungsprofil nur 2% Abdeckung.
+        Wie macht der das?
+        Und schau mal, was das kostet: Volle Daten $ 65.000, Metadaten $38.000.
+        Das ist ja geschenkt.
+        Mal sehen wie viel Abdeckung Marc Zuckerberg hat und was der kostet … Ahhh. Der hat 99,3%.
+        Wow.
+        Aber klar.
+        Und seine Daten kosten: $ 81.000.
+        Warum ist der teurer als Edward?“`,
+        
+        `Lasse: „Hmmm.
+        Die Leute, die das interessiert, haben mehr Geld?“`,
+        
+        `Sigur: „Egal.
+        Ich schau mal weiter. Da liegt sicherlich noch mehr auf dem Rechner rum.“`,
+
+        `Sigur schloss die Augen und grinste in sich hinein.
+        Er schrieb in sein Chatfenster: „Lasse! Wow! Wow! Wowowow! Schau, hier!“`,
+
+        `Lasse drehte sich instinktiv zu ihm, um sich dann aber sofort wieder ruhig zurück zu seinem Monitor zu wenden, auf dem gerade ein Videofilm lief.
+        Über den Videofilm hatte er, kaum zu bemerken, sein Chatfenster gelegt.
+        Dort scrollten jetzt seitenweise Daten durch.`,
+
+        `Lasse: „Was ist das???“`,
+
+        `Sigur streckte sich auf seinem Sessel und tippte: „Bitcoins! Da gehen alle Bitcoins aus den Shop hin.
+        Das sind Massen.“`,
+
+        `Lasse: „Echt? Das ist ja super! Wir haben ihn bei den Eiern!“  `
+      ]
+    }, {
       tabName: 'Marlene (2064)',
       tabIcon: Face,
       tabTitle: 'Marlene Farras',
@@ -876,14 +876,7 @@ export default {
         Das war ein Wendepunkt im Befreiungskampf des Internets.
         Das hat damals auf der ganzen Welt ein Erdbeben ausgelöst.
         Plötzlich konnten alle klar sehen, und am eigenen Leib spüren, wie viele Hintertüren und Schlupflöcher es überall im Internet gab.
-        Es war regelrecht durchlöchert, jede Menge Leute, nicht nur die Geheimdienste, konnten auf alle Computer zugreifen, auf die sie zugreifen wollten.`,
-
-        `Das Internet war für die junge Generation damals schon zu einem wirklichen Lebensraum geworden.
-        Und als sie nachvollziehen konnten, was alles im Geheimen passierte, was getan wurde, um sie zu durchleuchten und zu kategorisieren, sie dazu zu bringen, Dinge zu kaufen, Dinge wichtig zu finden, oder unwichtig zu finden, ihnen Dinge vorzuenthalten, änderte sich für sie alles.
-        Über diese Hintertüren und Schlupflöcher wurden nicht etwa vor allem Verbrecher oder Terroristen gejagt, nein, sie wurden genutzt, um die neue Generation zu überwachen und zu steuern.
-        Durch diese Manipulationen glaubten viele Menschen, sie bräuchten dies und das, um ein glückliches Leben zu haben oder kein unglückliches Leben zu haben, sie arbeiteten dafür, wendeten dafür viel Zeit und Kraft auf, obwohl sie es nicht wirklich brauchten.
-        So wurde die neue Generation davon abgelenkt, was sie wirklich machen wollte, in ihren Herzen, in ihrem Idealismus.
-        Viele von ihnen wurden an diesem Wendepunkt Cypherpunks.`
+        Es war regelrecht durchlöchert, jede Menge Leute, nicht nur die Geheimdienste, konnten auf alle Computer zugreifen, auf die sie zugreifen wollten.`
       ]
     }]
   },
@@ -930,7 +923,7 @@ export default {
         Warum soviel Mathe und soviel Deutsch?
         Warum nicht schauen, was gerade dran ist?
         Ich war die meiste Zeit in so einem Automatikmodus, bin so mitgeschwommen.
-        Bis ich 15 war. Dann ging das nicht mehhr ...`,
+        Bis ich 15 war. Dann ging das nicht mehr ...`,
         
         `I: Dann warst du ja auch nicht mehr lange in der Schule.`,
         
@@ -939,9 +932,10 @@ export default {
         Es ging immer so weiter.
         Rein in den Kopf, schauen ob es drin ist, dann wieder raus damit.
         So ein Riesenschwachsinn. 
-        Das geht nicht, wenn du abends mit deinem Bruder die Überwachungskamera-Datenbank des BND durchforstest und im Tornetz eine Karte davon veröffentlichst.`,
+        Das geht nicht, wenn du abends mit deinem Bruder die Überwachungskamera-Datenbank des BND durchforstest und im Tornetz eine Karte davon veröffentlichst.
+        Dann ist das zu unlogisch.`,
         
-        `I: Dein erster Hack?`,
+        `I: Dein erster großer Hack?`,
         
         `M: Ich dachte, das hier ist als Teaser für die Geschichte gedacht.
         Da kann ich ja jetzt hier wohl nichts dazu sagen, oder?`,
@@ -1058,7 +1052,7 @@ export default {
         `L: Wenn er sich nicht gegen uns wendet, dann kann er außerhalb Amerikas ein freies Leben führen.
         Von der NSA wird er auf jeden Fall nicht mehr überwacht.`,
         
-        `I: Die gibt es ja nun eigentlich auch nicht mehr.
+        `I: Die gibt es ja nun eigentlich in der Form auch nicht mehr, oder? ...
         Vielen Dank für das Interview.`
       ]
     }, {
@@ -1095,9 +1089,9 @@ export default {
         Mozart war nur in einem anderen Bereich.
         Er hat das sehr ernst genommen.`,
         
-        `I: Und dein Bruder Lasse, und Sigur?
+        `I: Und dein Bruder Lasse, und Sigur?`,
         
-        Die sind voll drin im Spiel.
+        `L: Die sind voll drin im Spiel.
         Nah an den echten Missionen.
         Und was sie mit den Kampfrobotern machen ist schon super.
         Hast du den Fünfstern-Angriff gesehen.
@@ -1165,6 +1159,74 @@ export default {
         
         `I: Das habt ihr wirklich.
         Vielen Dank, Lasse.`                
+      ]
+    }]
+  },
+  quotes: {
+    title: 'Leser-Kommentare',
+    quotes: [{
+      name: 'Stefanie Jandl, Ärztin',
+      icon: Face,
+      text: [
+        `Diese Geschichte hat es geschafft mich so zu fesseln, dass ich mich schon am Vortag darauf gefreut habe, morgens bei einer Tasse Kaffee weiterzulesen.
+        Und meinen Rechner werde ich auf Linux umstellen.
+        Habe es schon lange vor, aber nun, nach dieser Geschichte werde ich es auch (hoffentlich) tun!`
+      ]
+    },{
+      name: 'Fiona König, Studentin',
+      icon: Face,
+      text: [`
+        Dieser Roman ist genauso erschreckend wie Hoffnung-bringend!
+        Erschreckend ist die realitätsnahe Darstellung der heutigen Spionage, der Macht Weniger und der Ahnungslosigkeit Vieler.
+        Viel schwerer aber als diese aufklärerische Funktion wiegt für mich die Zukunftsvision dieser Geschichte.
+        Neben der großen Befreiung des Internets finden in der Geschichte der Cypherpunks viele persönliche Entwicklungen statt.
+        Schüler beginnen sich zu fragen was und wie sie lernen wollen, die Charaktere stehen oft ganz im Kontakt mit sich selbst und ihren Gefühlen und äußern diese angemessen, sie organisieren sich sozial.
+        Diese Entwicklungen sind für mich das Beispielgebende und das Hoffnung-bringende dieses spannenden Romans!
+      `
+      ]
+    },{
+      name: 'Julian Vetten, Journalist',
+      icon: Face,
+      text: [`
+        Die Geschichte der Cypherpunks ist das perfekte Material für ein Jugendbuch:
+        Eine junge und mit allen Wassern gewaschene Protagonistin, jede Menge geiler Scheiß und die Möglichkeit, behutsam an eine enorm sensible Thematik heranzuführen.`,
+      
+        `Jede Passage mit Marlene ist enorm stark, genau wie die späteren Kapitel mit Lasse und Sigur in der "Jetztzeit".
+        Unbedingt drinbehalten würde ich auch Paul, der zwar Fahrt aus der Geschichte nimmt, aber als Mariannes Motivation und leuchtendes Beispiel, wie man sich als Hacker verhalten sollte, wichtig für's Buch ist.
+        Rausschmeißen (ich weiß, wie schwer so was fällt) würde ich dagegen die anderen Zeitebenen: Ich weiß zwar, worauf du mit den Spartakisten hinauswillst, ihnen fehlt aber ein stärkerer Bezug zur restlichen Rahmenhandlung.
+        Ein echter Plotstopper ist das allwissende TRON: zu belehrend, zu hell, zu kindlich - und immer zu wissen, dass man sich in einer Simulation befindet, killt zumindest bei mir die Spannung.`,
+        
+        `Dein Verständnis der Hackerwelt, ihrer Werkzeuge und ihrer Gegenspieler ist dein eigentliches Ass im Ärmel:
+        Du transportierst sie leichtfüßig über Mariannes Geschichte und hast so das Zeug, tatsächlich ein wichtiges Werk in puncto Jugendliteratur für kommende Generationen zu schreiben und im besten Falle eine Debatte anzustoßen, die lange überfällig ist.`
+      ]
+    },{
+      name: 'Thomas Pedroli, Caoch, Seminarleiter',
+      icon: Face,
+      text: [`
+        Hinreißend, spannend bis zum Ende, und gleichzeitig stimmt sie nachdenklich!
+        Eine Geschichte, die sich auf einer mächtigen Zeitwelle abspielt.
+        Und wir wissen noch nicht mal, ob die Welle uns überrollen wird, oder ob wir surfen lernen!
+        Deswegen: lesen!`
+      ]
+    },{
+      name: 'Noe-Lou (12)',
+      icon: Face,
+      text: [`
+        Spannend. Und ich habe viel dabei gelernt.`
+      ]
+    },{
+      name: 'Sabrina von Nuis, Waldorf-Lehrerin',
+      icon: Face,
+      text: [`
+        Ich habe es durch! Hat seeehr viel Spaß gemacht!!! Danke!!!
+        Und insgesamt: Wow!!!!!!! Mehr!`
+      ]
+    },{
+      name: 'Rainer-Maria Fritsch, Staatssektretär a.D.',
+      icon: Face,
+      text: [`
+        ... Fuß, Sonnnenbrand
+      `
       ]
     }]
   }
