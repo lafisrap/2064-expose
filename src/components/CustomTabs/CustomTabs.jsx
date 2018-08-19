@@ -12,6 +12,7 @@ import Tab from "@material-ui/core/Tab";
 import Card from "components/Card/Card.jsx";
 import CardBody from "components/Card/CardBody.jsx";
 import CardHeader from "components/Card/CardHeader.jsx";
+import Button from "components/CustomButtons/Button.jsx";
 
 import customTabsStyle from "assets/jss/material-kit-react/components/customTabsStyle.jsx";
 
@@ -21,6 +22,7 @@ class CustomTabs extends React.Component {
   };
 
   handleChange = (event, value) => {
+    console.log(14.1, value)
     this.setState({ value });
   };
 
@@ -31,7 +33,8 @@ class CustomTabs extends React.Component {
       plainTabs,
       tabs,
       title,
-      rtlActive
+      rtlActive,
+      anchor
     } = this.props;
     const cardTitle = classNames({
       [classes.cardTitle]: true,
@@ -83,6 +86,12 @@ class CustomTabs extends React.Component {
             return null;
           })}
         </CardBody>
+        <Button
+          onClick={() => this.handleChange(null, (this.state.value + 1) % tabs.length)}
+          href={`#${anchor}`}
+        >
+          Weiter ...
+        </Button>
       </Card>
     );
   }

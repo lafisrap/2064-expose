@@ -30,46 +30,24 @@ import basicsStyle from "assets/jss/material-kit-react/views/componentsSections/
 class SectionBasics extends React.Component {
   constructor(props) {
     super(props);
-    this.state = {};
   }
 
   render() {
     const { classes } = this.props;
+
     return (
       <div className={classes.sections}>
         <div className={classes.container}>
           <div className={classes.title}>
             <h2>{content.samples.title}</h2>
           </div>
-          <a name="y2021"></a>
-          <h3 id="y2021">
-            2021 - 2023 <a href="#y2064">(&rarr; 2064)</a>
-          </h3>
-          <GridContainer>
-            <GridItem xs={12} sm={12} md={9} >
-              <CustomTabs
-                headerColor="primary"
-                tabs={ content.samples.stories2023.map(story => {
-                    const { tabName, tabIcon, tabContent, tabTitle } = story;
-                    return {
-                      tabName,
-                      tabIcon,
-                      tabContent: [<h2>{tabTitle}</h2>, ...tabContent.map(p => (
-                        <p className={classes.textCenter}>
-                          {p}
-                        </p>
-                      ))]
-                    }
-                  })
-                }
-              />
-            </GridItem>
-          </GridContainer>
           <a name="y2064"></a>
           <h3 id="y2064">2064  <a href="#y2021">(&rarr; 2021-2023)</a></h3>
           <GridContainer>
             <GridItem xs={12} sm={12} md={9} >
               <CustomTabs
+                anchor="y2064"
+                onRef={ref => this.customTabs2064 = ref} 
                 headerColor="primary"
                 tabs={ content.samples.stories2064.map(storie => {
                     const { tabName, tabIcon, tabContent } = storie;
@@ -81,6 +59,31 @@ class SectionBasics extends React.Component {
                           {p}
                         </p>
                       ))
+                    }
+                  })
+                }
+              />
+            </GridItem>
+          </GridContainer>
+          <a name="y2021"></a>
+          <h3 id="y2021">
+            2021 - 2023 <a href="#y2064">(&rarr; 2064)</a>
+          </h3>
+          <GridContainer>
+            <GridItem xs={12} sm={12} md={9} >
+              <CustomTabs
+                anchor="y2021"
+                headerColor="primary"
+                tabs={ content.samples.stories2023.map(story => {
+                    const { tabName, tabIcon, tabContent, tabTitle } = story;
+                    return {
+                      tabName,
+                      tabIcon,
+                      tabContent: [<h2>{tabTitle}</h2>, ...tabContent.map(p => (
+                        <p className={classes.textCenter}>
+                          {p}
+                        </p>
+                      ))]
                     }
                   })
                 }

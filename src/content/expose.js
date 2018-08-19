@@ -12,18 +12,20 @@ export default {
       `Das Internet ist frei!`,
       `Überall kann man mitbauen, mitgestalten, andern helfen, eigene Projekte starten.
        Und nicht nur wenn es um Technik geht, auch das neue Schwimmbad, neue Verkehrsregeln oder Schulen entstehen in Zusammenarbeit im Internet.
-       Auch sonst ist fast alles anders.
-       Nur ganz selten trifft man noch auf erfundene, unwahre Geschichten.
+       Auch sonst ist fast alles anders als heute.
+       Nur ganz selten trifft man im Internet noch auf erfundene, unwahre Geschichten.
        Es gibt keine Ungleichbehandlung im Netz mehr, keine unerwünschte Werbung.
        Ganz selten Trolle.`,
       `Großkonzerne sammeln nicht mehr persönliche Daten von allen Menschen,
        Geheimdienste überwachen nicht mehr jeden einzelnen Schritt von jedem
        und Regierungen und Hacker führen im Internet nicht mehr Krieg geeinander.`,
       `Für Sigur, Lasse und seine Schwester Lilly, drei Schüler im Jahr 2064, ist das völlig normal.
-       Sie erfahren von Marlene Farras, einer Internet-Freiheitskämpferin, dass es nicht immer so war.
-       Dass es im Internet Krieg gab und wie die entscheidenen Kämpfe waren:
-       die großen Hacks, Befreiung der Schulen, weltweite Aktionen, gegen äußerst gefährliche Gegner.
-       Sie hatte dabei ihren Bruder verloren - Marwin.`,
+       Für sie ist das Internet ein Lebensraum, ein Ort, an dem sie Menschen finden und treffen können, unabhängig vom Ort.
+       Sie können dort flüstern, sprechen oder schreien, je nach dem, wer das hören soll, was sie sagen.`,
+      `Sie erfahren von Marlene Farras, einer legendären Internet-Freiheitskämpferin, dass das nicht immer so war.
+       Dass es Zeiten gab, wo immer jemand mithörte, mitschnitt oder Wege veränderte, ohne zu fragen. Und sie beschreibt ihnen, wie es im Internet Krieg gab und wie die entscheidenen Kämpfe waren:
+       die großen Hacks, die Befreiung der Schulen, weltweite Aktionen in Hunderten von Städten, gegen äußerst gefährliche Gegner.
+       Sie hatte dabei ihren Bruder verloren.`,
       `Marlene erzählt ihnen, wie es gelingen konnte, gegen mächtige Regierungen, Riesen-Unternehmen und die Hackerunterwelt das Internet zurückzuerobern und zu einem freien Platz für alle Menschen zu machen? Und sie erzählt nicht nur ...`
     ]
   },
@@ -424,6 +426,84 @@ export default {
       ]
     }],
     stories2064: [{
+      tabName: 'Marlene (2064)',
+      tabIcon: Face,
+      tabTitle: 'Marlene Farras',
+      tabContent: [
+        `Marlene Farras betrat die kleine Schulbühne des Versammlungshauses, das auf einem Hügel am Rande des Schulgeländes lag.
+        Draußen war ein milder Abend, leichter Wind.
+        Die Sonne war gerade untergegangen.
+        Marlene ging leicht gebeugt, ein wenig hinkend, aber schwungvoll und setzte sich auf das große Sofa in der Mitte der Bühne.
+        Ihre Augen leuchteten.
+        Sie schaute in die Runde der etwa hundert klatschenden Kinder und Jugendlichen.
+        Einige johlten.
+        Rechts neben ihr saß Lilly in einem Sessel und lächelte Marlene an.
+        Sie lächelte warm zurück.
+        Lasse und Sigur saßen in der ersten Reihe direkt vor der Bühne.`,
+        
+        `Edgar, ein Lehrer mit sportlicher Figur, hochgekrempelten Ärmeln und einer sonnigen Ausstrahlung, betrat die Bühne und nahm das Mikrofon:`,
+        
+        `„Willkommen, Marlene Farras!“ Der Beifall wurde lauter.
+        Er drehte sich zu Marlene und wartete bis es ruhiger wurde: „Ich freue mich, dass du hier bist.
+        Ich freue mich, dass du überhaupt noch auf der Erde bist.
+        Es war ja in deinem Leben nicht nur einmal ziemlich knapp.
+        Wie lebt man 14 Jahre mit einem entfesselten Geheimdienst im Nacken, dem größten Geheimdienst der Welt, auf der Liste seiner Top-Ziele?“`,
+        
+        `Er wandte sich zu den Zuschauern: „Früher, Anfang dieses Jahrhunderts, gab es viele Geheimdienste.
+        Und die Geschichten, die ihr darüber vielleicht gehört habt, sind wahr.
+        Sie haben wirklich Menschen gesucht, überwacht, eingesperrt, verhört, manchmal sogar gefoltert und getötet.
+        Das waren äußerst gefährliche Einrichtungen.
+        Nach außen hin erschienen sie als legal.
+        Heute gibt es sie nicht mehr.
+        Aus den Geheimdiensten von damals sind unsere Informationsdienste geworden, über die wir alle alles Mögliche darüber erfahren können, wie Menschen in allen Ländern der Erde zusammen arbeiten, was sie zusammen entscheiden, wer was besonders gut kann und was die Menschen überall auf der Erde zum Leben und Arbeiten brauchen.
+        Manchmal verwenden sie dabei sogar Nachfolger von Computerprogrammen, die früher zur Menschenjagd und zur Kontrolle des Privatlebens auf dieser Erde verwendet wurden.
+        Diese Menschenjagd und die Kontrolle von Allem und Jedem ist heute, Gott sei Dank, Vergangenheit.
+        Ihr lernt über diese alten Geheimdienste nur noch im Geschichtsunterricht, das heißt konkret in euerm Fall, im Wesentlichen durch TRON, denn dafür ist TRON ursprünglich gemacht worden: um euch den Befreiungskampf des Internets zu zeigen.“`,
+        
+        `Lasse und Sigur schauten sich an und dann zu Lilly.
+        Die lächelte zurück und zwinkerte mit den Augen.`,
+        
+        `Edgar trat nach vorne und setzte sich zu den Schülern gewandt an die Bühnenkante, gleichzeitig verdunkelte sich das Licht etwas.
+        Er wurde im Ton ruhiger: „In dieser Welt damals, die so anders war als unsere heutige, war es normal, dass Menschen versuchten, über das Leben anderer Menschen zu bestimmen, sie zu kontrollieren.
+        Viele meinten, dass es nicht anders ginge, weil es so viel Egoismus, so viele Verbrecher und schlechte Menschen gäbe.
+        Vielen war es sogar Recht, dass Staaten ihre Bürger durchleuchteten.
+        Die meisten hielten es für normal, dass Armeen ihre Soldaten überwachten, Unternehmen ihre Mitarbeiter, und sogar die Lehrer ihre Schüler und die Eltern ihre Kinder: ob sie zur Schule gingen, ob sie das gelernt hatten, was sie lernen sollten und ob sie etwas besser oder schlechter machten als die anderen Schüler, wie viel sie am Computer spielten, alles Mögliche.
+        Kontrolle und Überwachung waren damals überall verbreitet.`,
+        
+        `Es gab auch überall Streit.
+        Zwischen Ländern, Unternehmen, politischen Parteien, aber auch in Schulen, Familien, überall.
+        Das war völlig normal.
+        Deswegen hielten Menschen Dinge geheim, zeigten nicht wie sie wirklich waren, was sie wirklich dachten.
+        Entweder um einem Streit aus dem Weg zu gehen oder um einen Vorteil gegenüber anderen zu haben.
+        Es wurden auch immer mehr Dinge geheimgehalten, die für Menschen lebenswichtig waren, die sie hätten wissen müssen.
+        Das Verschweigen ging hinauf bis in die Weltpolitik und die großen Unternehmen.
+        Da war es sogar am schlimmsten.
+        Umweltkatastrophen wurden verschwiegen, Kriege, die Überwachung und am Ende kam es so weit, dass in der Welt die schlimmsten Dinge passierten konnten, und fast niemand davon erfuhr.`,
+        
+        `Das war das Arbeitsfeld der Cypherpunks.
+        Sie waren nicht nur Programmierer, die Verschlüsselungsprogramme schrieben und im Internet Schwachstellen suchten und ausbesserten.
+        Sie waren auch Hacker.
+        Es ging ihnen um viel mehr.
+        Es ging ihnen um eine neue Welt, eine neue Form des Zusammenlebens, es ging darum, einen Weg zu finden, dass alle Menschen leben können, wie sie sind, nach ihren eigenen Vorstellungen.
+        Es ging darum, dass sich niemand mehr für irgendjemand Anderen verbiegen muss.
+        Es ging um eine Welt, in der es immer weniger Angst und Zwang und Lügen gibt.`,
+        
+        `Und obwohl es lange Zeit überhaupt nicht danach aussah, wurde der Weg in diese neue Welt gefunden.
+        Viele Menschen hatten das damals für unmöglich gehalten, obwohl die meisten lieber in so einer Welt gelebt hätten.
+        Die Kräfte, die dem im Wege standen, die Kräfte, die ihr in TRON ausprobiert, nachspielt, sie schienen übermächtig zu sein.
+        Was hätte man gegen die Riesenarmeen, Riesenunternehmen und mächtigen Regierungen ausrichten können?
+        Aber alles, was man will, ist möglich.
+        Und so wurde auch dieser Weg gefunden.
+        Und zwar vor allem von Kindern und Jugendlichen wie euch.“`,
+
+        `Edgar sprach eindringlicher: „Marlene Farras war 16 Jahre alt, als sie die NSA-Schwachstellen-Datenbank gehackt hat.
+        Und vor allem dann allen Menschen zur Verfügung gestellt hat.
+        Das war ein Wendepunkt im Befreiungskampf des Internets.
+        Das hat damals auf der ganzen Welt ein Erdbeben ausgelöst.
+        Plötzlich konnten alle klar sehen, und am eigenen Leib spüren, wie viele Hintertüren und Schlupflöcher es überall im Internet gab.
+        Es war regelrecht durchlöchert, jede Menge Leute, nicht nur die Geheimdienste, konnten auf alle Computer zugreifen, auf die sie zugreifen wollten.`
+      ]
+    }, {
       tabName: 'Lilly',
       tabIcon: Face,
       tabTitle: 'Schwachstellen in Computern',
@@ -800,84 +880,6 @@ export default {
 
         `Lasse: „Echt? Das ist ja super! Wir haben ihn bei den Eiern!“  `
       ]
-    }, {
-      tabName: 'Marlene (2064)',
-      tabIcon: Face,
-      tabTitle: 'Marlene Farras',
-      tabContent: [
-        `Marlene Farras betrat die kleine Schulbühne des Versammlungshauses, das auf einem Hügel am Rande des Schulgeländes lag.
-        Draußen war ein milder Abend, leichter Wind.
-        Die Sonne war gerade untergegangen.
-        Marlene ging leicht gebeugt, ein wenig hinkend, aber schwungvoll und setzte sich auf das große Sofa in der Mitte der Bühne.
-        Ihre Augen leuchteten.
-        Sie schaute in die Runde der etwa hundert klatschenden Kinder und Jugendlichen.
-        Einige johlten.
-        Rechts neben ihr saß Lilly in einem Sessel und lächelte Marlene an.
-        Sie lächelte warm zurück.
-        Lasse und Sigur saßen in der ersten Reihe direkt vor der Bühne.`,
-        
-        `Edgar, ein Lehrer mit sportlicher Figur, hochgekrempelten Ärmeln und einer sonnigen Ausstrahlung, betrat die Bühne und nahm das Mikrofon:`,
-        
-        `„Willkommen, Marlene Farras!“ Der Beifall wurde lauter.
-        Er drehte sich zu Marlene und wartete bis es ruhiger wurde: „Ich freue mich, dass du hier bist.
-        Ich freue mich, dass du überhaupt noch auf der Erde bist.
-        Es war ja in deinem Leben nicht nur einmal ziemlich knapp.
-        Wie lebt man 14 Jahre mit einem entfesselten Geheimdienst im Nacken, dem größten Geheimdienst der Welt, auf der Liste seiner Top-Ziele?“`,
-        
-        `Er wandte sich zu den Zuschauern: „Früher, Anfang dieses Jahrhunderts, gab es viele Geheimdienste.
-        Und die Geschichten sind wahr.
-        Sie haben wirklich Menschen gesucht, überwacht, eingesperrt, verhört, manchmal sogar gefoltert und getötet.
-        Das waren äußerst gefährliche Einrichtungen.
-        Nach außen in erschienen sie als legal.
-        Heute gibt es sie nicht mehr.
-        Aus den Geheimdiensten von damals sind unsere Informationsdienste geworden, über die wir alle alles Mögliche darüber erfahren können, wie Menschen in allen Ländern der Erde zusammen arbeiten, was sie zusammen entscheiden, wer was besonders gut kann und was die Menschen überall auf der Erde zum Leben und Arbeiten brauchen.
-        Manchmal verwenden sie dabei sogar Nachfolger von Computerprogrammen, die früher zur Menschenjagd und zur Kontrolle des Privatlebens auf dieser Erde verwendet wurden.
-        Diese Menschenjagd und die Kontrolle von Allem und Jedem ist heute, Gott sei Dank, Vergangenheit.
-        Ihr lernt über diese alten Geheimdienste nur noch im Geschichtsunterricht, das heißt konkret in euerm Fall, im Wesentlichen durch TRON, denn dafür ist TRON ursprünglich gemacht worden: um euch den Befreiungskampf des Internets zu zeigen.“`,
-        
-        `Lasse und Sigur schauten sich an und dann zu Lilly.
-        Die lächelte zurück und zwinkerte mit den Augen.`,
-        
-        `Edgar trat nach vorne und setzte sich zu den Schülern gewandt an die Bühnenkante, gleichzeitig verdunkelte sich das Licht etwas.
-        Er wurde im Ton ruhiger: „In dieser Welt damals, die so anders war als unsere heutige, war es normal, dass Menschen versuchten, über das Leben anderer Menschen zu bestimmen, sie zu kontrollieren.
-        Viele meinten, dass es nicht anders ginge, weil es so viel Egoismus, so viele Verbrecher und schlechte Menschen gäbe.
-        Vielen war es sogar Recht, dass Staaten ihre Bürger durchleuchteten.
-        Die meisten hielten es für normal, dass Armeen ihre Soldaten überwachten, Unternehmen ihre Mitarbeiter, und sogar die Lehrer ihre Schüler und die Eltern ihre Kinder: ob sie zur Schule gingen, ob sie das gelernt hatten, was sie lernen sollten und ob sie etwas besser oder schlechter machten als die anderen Schüler, wie viel sie am Computer spielten, alles Mögliche.
-        Kontrolle und Überwachung waren damals überall verbreitet.`,
-        
-        `Es gab auch überall Streit.
-        Zwischen Ländern, Unternehmen, politischen Parteien, aber auch in Schulen, Familien, überall.
-        Das war völlig normal.
-        Deswegen hielten Menschen Dinge geheim, zeigten nicht wie sie wirklich waren, was sie wirklich dachten.
-        Entweder um einem Streit aus dem Weg zu gehen oder um einen Vorteil gegenüber anderen zu haben.
-        Es wurden auch immer mehr Dinge geheimgehalten, die für Menschen lebenswichtig waren, die sie hätten wissen müssen.
-        Das Verschweigen ging hinauf bis in die Weltpolitik und die großen Unternehmen.
-        Da war es sogar am schlimmsten.
-        Umweltkatastrophen wurden verschwiegen, Kriege, die Überwachung und am Ende kam es so weit, dass in der Welt die schlimmsten Dinge passierten konnten, und fast niemand davon erfuhr.`,
-        
-        `Das war das Arbeitsfeld der Cypherpunks.
-        Sie waren nicht nur Programmierer, die Verschlüsselungsprogramme schrieben und im Internet Schwachstellen suchten und ausbesserten.
-        Sie waren auch Hacker.
-        Es ging ihnen um viel mehr.
-        Es ging ihnen um eine neue Welt, eine neue Form des Zusammenlebens, es ging darum, einen Weg zu finden, dass alle Menschen leben können, wie sie sind, nach ihren eigenen Vorstellungen.
-        Es ging darum, dass sich niemand mehr für irgendjemand Anderen verbiegen muss.
-        Es ging um eine Welt, in der es immer weniger Angst und Zwang und Lügen gibt.`,
-        
-        `Und obwohl es lange Zeit überhaupt nicht danach aussah, wurde der Weg in diese neue Welt gefunden.
-        Viele Menschen hatten das damals für unmöglich gehalten, obwohl die meisten lieber in so einer Welt gelebt hätten.
-        Die Kräfte, die dem im Wege standen, die Kräfte, die ihr in TRON ausprobiert, nachspielt, sie schienen übermächtig zu sein.
-        Was hätte man gegen die Riesenarmeen, Riesenunternehmen und mächtigen Regierungen ausrichten können?
-        Aber alles, was man will, ist möglich.
-        Und so wurde auch dieser Weg gefunden.
-        Und zwar vor allem von Kindern und Jugendlichen wie euch.“`,
-
-        `Edgar sprach eindringlicher: „Marlene Farras war 16 Jahre alt, als sie die NSA-Schwachstellen-Datenbank gehackt hat.
-        Und vor allem dann allen Menschen zur Verfügung gestellt hat.
-        Das war ein Wendepunkt im Befreiungskampf des Internets.
-        Das hat damals auf der ganzen Welt ein Erdbeben ausgelöst.
-        Plötzlich konnten alle klar sehen, und am eigenen Leib spüren, wie viele Hintertüren und Schlupflöcher es überall im Internet gab.
-        Es war regelrecht durchlöchert, jede Menge Leute, nicht nur die Geheimdienste, konnten auf alle Computer zugreifen, auf die sie zugreifen wollten.`
-      ]
     }]
   },
   interviews: {
@@ -1065,20 +1067,21 @@ export default {
         `L: Guuut!
         Wir bauen gerade das Cypherpunk-Cafe um.`,
         
-        `I: Auf dem Ballon?
-        L: Ja, es wird jetzt komplett schweben ...
+        `I: Auf dem Ballon?`,
+        
+        `L: Ja, es wird jetzt komplett schweben ...
         Sieht cool aus.
-        ja, alles muss sich ändern für die Cypherpunk-Akademie 2.0.`,
+        Ja, alles muss sich ändern für die Cypherpunk-Akademie 2.0.`,
         
         `I: Wie machst du das?
         Du programmierst voll mit an der Akademie, du hilfst in der Hacker-Abwehr, du bist 12 Jahre alt.`,
         
-        `L: Wie wehren nicht Hacker ab, sondern Kriminelle, Dark Hats und Weirdos.
+        `L: Wir wehren nicht Hacker ab, sondern Kriminelle, Dark Hats und Weirdos.
         Ja, aber stimmt, ich darf da voll mitmachen.
         Das ist cool.
         Ich weiß auch nicht, wie ich das mache.
         Ich mache einfach.
-        Ich finde das super einfach.
+        Für mich ist das super einfach.
         Ich sehe was ich machen will, und dann schreibe ich das.
         Mozart hat mit 8 Jahren seine erste Sinfonie komponiert, warum soll ich nicht mit 12 ein neues Internet-Abwehr-System bauen?
         Das hat Marlene letztes Mal gesagt, als jemand gefragt hat, ob es Sinn macht, dass ich bei dem Akadmemie-Projekt dabei bin.`,
@@ -1086,8 +1089,9 @@ export default {
         `I: Es ist ein bisschen etwas anderes eine Sinfonie zu schreiben, damit Menschen Musik genießen können, und ein Abwehrsystem zu bauen, um Black Hats draußen zu halten, die die Akademie dem Boden gleich machen wollen?`,
         
         `L: Ich glaube, die Sinfonien von Mozart haben viele Menschenleben gerettet.
-        Mozart war nur in einem anderen Bereich.
-        Er hat das sehr ernst genommen.`,
+        Ich fühle mich mit Mozart schon in der gleichen Richtung unterwegs.
+        Er war nur in einem anderen Bereich.
+        Er hat seine Arbeit sehr ernst genommen.`,
         
         `I: Und dein Bruder Lasse, und Sigur?`,
         
@@ -1096,12 +1100,12 @@ export default {
         Und was sie mit den Kampfrobotern machen ist schon super.
         Hast du den Fünfstern-Angriff gesehen.
         Cool.
-        Sigur hat sich jetzt vielleicht ein wenig festgebissen.
+        Sigur hat sich wegen Fortunato jetzt vielleicht ein wenig festgebissen.
         Wenn er da nicht loskommt, dann wird er vielleicht ein Weirdo.
         Er hat da einen Tick.
-        Aber technisch sauber.
+        Aber technisch ist er sauber.
         Als so ein alter Geheimdienst würde ich vollen Respekt vor den beiden haben.
-        Die beiden werden tolle Aufgaben von den Akademie bekommen.`,
+        Die beiden werden tolle Aufgaben von der Akademie bekommen.`,
         
         `I: Lieben Dank und alles Gute!`        
       ]
@@ -1152,7 +1156,7 @@ export default {
         `L: Sigur ist cool.
         Ja, er ist ein bisschen durchgedreht nach Fortunato.
         Ein bisschen vom Gleis weg.
-        Aber das war ja verständlich, bei dem, was er dort erlebt hat.
+        Aber das ist ja verständlich, nach dem, was er dort erlebt hat.
         Und das hat er dann ja auch in der Akademie zu spüren bekommen.
         Ich glaube er fängt sich wieder.
         Wir haben ja jetzt einen Ruf zu verteidigen ...`,
@@ -1232,7 +1236,7 @@ export default {
       icon: Face,
       font: 'handFont3',
       text: [`
-        ... Fuß, Sonnnenbrand
+        ... Fuß, Sonnnenbrand (ergänzen...)
       `
       ]
     }]
