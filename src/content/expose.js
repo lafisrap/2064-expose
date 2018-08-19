@@ -1167,6 +1167,7 @@ export default {
     quotes: [{
       name: 'Stefanie Jandl, Ärztin',
       icon: Face,
+      font: 'handFont1',
       text: [
         `Diese Geschichte hat es geschafft mich so zu fesseln, dass ich mich schon am Vortag darauf gefreut habe, morgens bei einer Tasse Kaffee weiterzulesen.
         Und meinen Rechner werde ich auf Linux umstellen.
@@ -1175,6 +1176,7 @@ export default {
     },{
       name: 'Fiona König, Studentin',
       icon: Face,
+      font: 'handFont2',
       text: [`
         Dieser Roman ist genauso erschreckend wie Hoffnung-bringend!
         Erschreckend ist die realitätsnahe Darstellung der heutigen Spionage, der Macht Weniger und der Ahnungslosigkeit Vieler.
@@ -1187,12 +1189,13 @@ export default {
     },{
       name: 'Julian Vetten, Journalist',
       icon: Face,
+      font: 'handFont3',
       text: [`
         Die Geschichte der Cypherpunks ist das perfekte Material für ein Jugendbuch:
         Eine junge und mit allen Wassern gewaschene Protagonistin, jede Menge geiler Scheiß und die Möglichkeit, behutsam an eine enorm sensible Thematik heranzuführen.`,
       
         `Jede Passage mit Marlene ist enorm stark, genau wie die späteren Kapitel mit Lasse und Sigur in der "Jetztzeit".
-        Unbedingt drinbehalten würde ich auch Paul, der zwar Fahrt aus der Geschichte nimmt, aber als Mariannes Motivation und leuchtendes Beispiel, wie man sich als Hacker verhalten sollte, wichtig für's Buch ist.
+        Unbedingt drinbehalten würde ich auch Marwin, der zwar Fahrt aus der Geschichte nimmt, aber als Mariannes Motivation und leuchtendes Beispiel, wie man sich als Hacker verhalten sollte, wichtig für's Buch ist.
         Rausschmeißen (ich weiß, wie schwer so was fällt) würde ich dagegen die anderen Zeitebenen: Ich weiß zwar, worauf du mit den Spartakisten hinauswillst, ihnen fehlt aber ein stärkerer Bezug zur restlichen Rahmenhandlung.
         Ein echter Plotstopper ist das allwissende TRON: zu belehrend, zu hell, zu kindlich - und immer zu wissen, dass man sich in einer Simulation befindet, killt zumindest bei mir die Spannung.`,
         
@@ -1202,6 +1205,7 @@ export default {
     },{
       name: 'Thomas Pedroli, Caoch, Seminarleiter',
       icon: Face,
+      font: 'handFont3',
       text: [`
         Hinreißend, spannend bis zum Ende, und gleichzeitig stimmt sie nachdenklich!
         Eine Geschichte, die sich auf einer mächtigen Zeitwelle abspielt.
@@ -1211,12 +1215,14 @@ export default {
     },{
       name: 'Noe-Lou (12)',
       icon: Face,
+      font: 'handFont1',
       text: [`
         Spannend. Und ich habe viel dabei gelernt.`
       ]
     },{
       name: 'Sabrina von Nuis, Waldorf-Lehrerin',
       icon: Face,
+      font: 'handFont2',
       text: [`
         Ich habe es durch! Hat seeehr viel Spaß gemacht!!! Danke!!!
         Und insgesamt: Wow!!!!!!! Mehr!`
@@ -1224,6 +1230,7 @@ export default {
     },{
       name: 'Rainer-Maria Fritsch, Staatssektretär a.D.',
       icon: Face,
+      font: 'handFont3',
       text: [`
         ... Fuß, Sonnnenbrand
       `

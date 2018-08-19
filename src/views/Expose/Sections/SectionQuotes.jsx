@@ -35,6 +35,8 @@ class SectionQuotes extends React.Component {
 
   render() {
     const { classes } = this.props;
+
+    console.log(11.3, content.quotes, classes[content.quotes.font])
     return (
       <div className={classes.sections}>
         <a name="quotes"></a>
@@ -57,7 +59,7 @@ class SectionQuotes extends React.Component {
                             tabContent: (
                                 <span>
                                     { quote.text.map(p => (
-                                        <p className={classes.quotes}>{p}</p>
+                                        <p className={`${classes.quotes} ${classes[quote.font]}`}>{p}</p>
                                     ))}
                                 </span>
                             )

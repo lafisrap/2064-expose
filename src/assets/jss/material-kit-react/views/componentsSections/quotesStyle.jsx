@@ -3,8 +3,21 @@ import customCheckboxRadioSwitch from "assets/jss/material-kit-react/customCheck
 
 const quotesStyle = {
   quotes: {
-    fontFamily: 'Nothing You Could Do',
+  },
+  handFont1: {
+    fontFamily: 'Swanky and Moo Moo',
+    fontSize: "25px",
+    lineHeight: "30px"
+  },
+  handFont2: {
+    fontFamily: 'Indie Flower',
     fontSize: "22px",
+    lineHeight: "34px"
+  },
+  handFont3: {
+    fontFamily: 'Architects Daughter',
+    fontSize: "21px",
+    lineHeight: "30px"
   },
   sections: {
     padding: "70px 0"
