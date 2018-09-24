@@ -37,10 +37,10 @@ function HeaderLinks({ ...props }) {
           buttonIcon={Apps}
           dropdownList={[
             <HashLink to="/#y2064" className={classes.dropdownLink}>
-              Leseprobe 2064
+              Leseproben 2064
             </HashLink>,
             <HashLink to="/#y2021" className={classes.dropdownLink}>
-              Leseprobe 2021 - 2023
+              Leseproben 2021 - 2023
             </HashLink>,
             <HashLink to="/#interviews" className={classes.dropdownLink}>
               Interviews (fiktiv)
@@ -48,7 +48,10 @@ function HeaderLinks({ ...props }) {
             <HashLink to="/#quotes" className={classes.dropdownLink}>
               Leser-Kommentare (real)
             </HashLink>,
-    ]}
+            <a href="https://michaelschmidt.berlin/de" target="_blank" className={classes.dropdownLink}>
+              Michael Schmidt
+            </a>
+          ]}
         />
       </ListItem>
     </List>

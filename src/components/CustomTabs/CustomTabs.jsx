@@ -22,8 +22,11 @@ class CustomTabs extends React.Component {
   };
 
   handleChange = (event, value) => {
-    console.log(14.1, value)
+    const { changeTimeline } = this.props;
+
     this.setState({ value });
+
+    if (value === 0) changeTimeline();
   };
 
   render() {
