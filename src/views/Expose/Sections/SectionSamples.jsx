@@ -42,14 +42,14 @@ class SectionBasics extends React.Component {
                         <h2>{content.samples.title}</h2>
                     </div>
                     <a name="y2064"></a>
-                    <h3 id="y2064">2064  <a href="#y2021">(&rarr; 2021-2023)</a></h3>
+                    <h3 id="y2064">Der Anfang ... <a href="#y2021">(&rarr; Ausgewählte Kapitel)</a></h3>
                     <GridContainer>
-                        <GridItem xs={12} sm={12} md={9} >
+                        <GridItem xs={12} sm={12} md={10} >
                             <CustomTabs
                                 anchor="y2064"
                                 onRef={ref => this.customTabs2064 = ref} 
                                 headerColor="primary"
-                                tabs={ content.samples.stories2064.map(story => {
+                                tabs={ content.samples.firstStories.map(story => {
                                     const { tabName, tabIcon, tabContent } = story;
                                     return {
                                         tabName,
@@ -74,14 +74,14 @@ class SectionBasics extends React.Component {
                     </GridContainer>
                     <a name="y2021"></a>
                     <h3 id="y2021">
-            2021 - 2023 <a href="#y2064">(&rarr; 2064)</a>
+            Ausgewählte Kapitel <a href="#y2064">(&rarr; Der Anfang ...)</a>
                     </h3>
                     <GridContainer>
-                        <GridItem xs={12} sm={12} md={9} >
+                        <GridItem xs={12} sm={12} md={10} >
                             <CustomTabs
                                 anchor="y2021"
                                 headerColor="primary"
-                                tabs={ content.samples.stories2023.map(story => {
+                                tabs={ content.samples.variousStories.map(story => {
                                     const { tabName, tabIcon, tabContent } = story;
                                     return {
                                         tabName,

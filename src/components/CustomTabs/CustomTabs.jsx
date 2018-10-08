@@ -21,12 +21,12 @@ class CustomTabs extends React.Component {
     value: 0
   };
 
-  handleChange = (event, value) => {
+  handleChange = (event, value, button) => {
     const { changeTimeline } = this.props;
 
     this.setState({ value });
 
-    if (value === 0) changeTimeline();
+    if (value === 0 && button) changeTimeline();
   };
 
   render() {
@@ -90,7 +90,7 @@ class CustomTabs extends React.Component {
           })}
         </CardBody>
         <Button
-          onClick={() => this.handleChange(null, (this.state.value + 1) % tabs.length)}
+          onClick={() => this.handleChange(null, (this.state.value + 1) % tabs.length, true)}
           href={`#${anchor}`}
         >
           Weiter ...

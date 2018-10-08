@@ -37,10 +37,10 @@ function HeaderLinks({ ...props }) {
           buttonIcon={Apps}
           dropdownList={[
             <HashLink to="/#y2064" className={classes.dropdownLink}>
-              Leseproben 2064
+              Leseprobe: Der Anfang ...
             </HashLink>,
             <HashLink to="/#y2021" className={classes.dropdownLink}>
-              Leseproben 2021 - 2023
+              Ausgewählte Kapitel
             </HashLink>,
             <HashLink to="/#interviews" className={classes.dropdownLink}>
               Interviews (fiktiv)
